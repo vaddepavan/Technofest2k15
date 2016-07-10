@@ -55,7 +55,7 @@
             </div><!--/ Codrops top bar -->
             <header>
                 <h1 align="center" style="color:brown"><big><big><big> DOC PLUS</big></big></big></h1>
-                <h2  align="center">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <b>Health now a touch away</b></h2>
+                <h2  align="center">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Health now a touch away</h2>
               <form name="form1" action="user.html" onsubmit="return validate()">
 				<table align="center" >
 				<tr>
